@@ -1,0 +1,13 @@
+1. Get the data
+2. Build a neural net (dude we are making it real)
+3. Normalize data (Z-Normalization, stadistic normalization, gaussian distribution, an some kind of magic and miracles)
+4. Train the neural net
+5. Check results, if bad go to 3. if good enough go to 8.
+6. Do a live test
+7. If live test good go to 10. if bad go to 9
+8. go to 6
+9. go to 3 - 4
+10.??
+11. profit.
+
+Elapsed time 1 month
